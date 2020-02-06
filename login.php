@@ -4,7 +4,10 @@
 <meta charset="UTF-8">
 <title>Login</title>
 </head>
-	
+<h1>
+	WMCC Team 6-5 Login
+</h1>
+
 
 <body>
 	<form name="login_form">
